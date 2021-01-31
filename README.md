@@ -8,3 +8,5 @@ it's highly recommended if you use Python Virtual Environment. you need to insta
 ```bash
 pip install notebook
 ```
+## Datasets
+[Cat and Dog Classification](https://www.kaggle.com/c/dogs-vs-cats/data) datasets
