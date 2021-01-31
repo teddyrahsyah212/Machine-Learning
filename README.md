@@ -9,4 +9,4 @@ it's highly recommended if you use Python Virtual Environment. you need to insta
 pip install notebook
 ```
 ## Datasets and Models
-Cat and Dog Classification [datasets](https://www.kaggle.com/c/dogs-vs-cats/data) and [model](https://drive.google.com/file/d/19AnL79zEoMOPYR229Uo4D7TTV9F6Z17N/view?usp=sharing)
+Cat and Dog Classification [datasets](https://www.kaggle.com/c/dogs-vs-cats/data) and [model](https://drive.google.com/drive/folders/16ny8Rly7fNjfQ6QHrsE5S2tR3LdagahP?usp=sharing)
